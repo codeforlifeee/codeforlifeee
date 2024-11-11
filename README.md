@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone! 👋 I'm Tejas Surya</h1>
-<h3 align="center">Student with Interest in Development and Tech Stuff</h3>
+<h3 align="center">Interested in Web-Development and DSA </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=codeforlifeee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
