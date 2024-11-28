@@ -9,7 +9,7 @@
   
 - 🌱 <samp>I’m currently learning Frontend/Backend Development and DSA
 
-- 📫 **How to reach me:** [tejask.surya@outlook.com](mailto:tejask.surya@outlook.com)
+- 📫 **How to reach me:** [tejas.k.surya@gmail.com](mailto:tejas.k.surya@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
