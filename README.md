@@ -79,7 +79,6 @@
 
 
 
-[![An image of @codeforlifeee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codeforlifeee)](https://holopin.io/@codeforlifeee)
 
 <a href="https://github.com/codeforlifeee" rel="nofollow">
   <img src="https://raw.githubusercontent.com/codeforlifeee/codeforlifeee/main/github-user-contribution.svg" 
